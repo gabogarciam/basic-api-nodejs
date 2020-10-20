@@ -1,0 +1,20 @@
+{
+  "name": "basic-api-nodejs",
+  "version": "1.0.0",
+  "description": "Simple Rest API in Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabogarciam/basic-api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabogarciam/basic-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/gabogarciam/basic-api-nodejs#readme"
+}
