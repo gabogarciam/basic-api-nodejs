@@ -2,7 +2,7 @@ const path = require('path');
 const webpack = require('webpack');
 const nodeExternals = require('webpack-node-externals');
 
-module.export = {
+module.exports = {
     entry: {
         server: './bin/server.js',
     },
